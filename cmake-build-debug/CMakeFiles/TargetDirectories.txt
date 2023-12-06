@@ -1,0 +1,3 @@
+/home/sweetjesus/CLionProjects/monitors2/cmake-build-debug/CMakeFiles/monitos2.dir
+/home/sweetjesus/CLionProjects/monitors2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sweetjesus/CLionProjects/monitors2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
